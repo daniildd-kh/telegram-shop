@@ -1,0 +1,13 @@
+.headerMenu{
+  width: 100%;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  list-style: none;
+}
+
+.menuItem{
+  padding: 10px 10px;
+  font-size: 14px;
+}
